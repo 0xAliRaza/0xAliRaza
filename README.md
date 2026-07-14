@@ -2,8 +2,7 @@
 
 <h1 align="center">Hi there, I'm <a href="https://0xali.com"  target="_blank">Ali Raza</a>! 👋</h1>
     
-<h3 align="center">A passionate web developer who loves to create captivating user experiences using the latest and widely used technologies.</h3>
-
+<h3 align="center">Vue · Nuxt · TypeScript product engineer — frontend-heavy full-stack, shipping since 2019.</h3>
 <p align="center">
     <a href="https://twitter.com/0xaliraza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
     <a href="https://www.linkedin.com/in/0xaliraza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
